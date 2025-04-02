@@ -12,8 +12,6 @@ public class Main {
 
         int lastId = 0;
 
-        Time time = new Time();
-
         List<Moti> motis = new ArrayList<>();
 
         while (true) {
